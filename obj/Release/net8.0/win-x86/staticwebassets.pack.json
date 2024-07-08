@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\Project_Blue.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project_Blue.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\css\\IP.css",
+      "PackagePath": "staticwebassets\\css\\IP.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\096FD702-4468-4FED-877F-A390B9874548.png",
+      "PackagePath": "staticwebassets\\imagesPost\\096FD702-4468-4FED-877F-A390B9874548.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\Background_Login.png",
+      "PackagePath": "staticwebassets\\imagesPost\\Background_Login.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\C78BFF13-1EC8-4254-96A4-D7C708931B4B.jpeg",
+      "PackagePath": "staticwebassets\\imagesPost\\C78BFF13-1EC8-4254-96A4-D7C708931B4B.jpeg"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\Capture.PNG",
+      "PackagePath": "staticwebassets\\imagesPost\\Capture.PNG"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\Coder.jpg",
+      "PackagePath": "staticwebassets\\imagesPost\\Coder.jpg"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\DEV.jpg",
+      "PackagePath": "staticwebassets\\imagesPost\\DEV.jpg"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\F826D7CF-2B68-4973-97C6-866EB7A9E86A.jpeg",
+      "PackagePath": "staticwebassets\\imagesPost\\F826D7CF-2B68-4973-97C6-866EB7A9E86A.jpeg"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\Home.png",
+      "PackagePath": "staticwebassets\\imagesPost\\Home.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\Image_Login.png",
+      "PackagePath": "staticwebassets\\imagesPost\\Image_Login.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\SQLProject.png",
+      "PackagePath": "staticwebassets\\imagesPost\\SQLProject.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\Savepost.png",
+      "PackagePath": "staticwebassets\\imagesPost\\Savepost.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesPost\\User.png",
+      "PackagePath": "staticwebassets\\imagesPost\\User.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesUser\\1.PNG",
+      "PackagePath": "staticwebassets\\imagesUser\\1.PNG"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesUser\\Background_Login.png",
+      "PackagePath": "staticwebassets\\imagesUser\\Background_Login.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesUser\\Coder.jpg",
+      "PackagePath": "staticwebassets\\imagesUser\\Coder.jpg"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesUser\\SQLProject.png",
+      "PackagePath": "staticwebassets\\imagesUser\\SQLProject.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\imagesUser\\User.png",
+      "PackagePath": "staticwebassets\\imagesUser\\User.png"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\C# WEB\\Project_Blue\\Project_Blue\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.Project_Blue.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.Project_Blue.props",
+      "PackagePath": "build\\Project_Blue.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.Project_Blue.props",
+      "PackagePath": "buildMultiTargeting\\Project_Blue.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.Project_Blue.props",
+      "PackagePath": "buildTransitive\\Project_Blue.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
